@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m @Picia
 
-### 🎮 Full-Spectrum Technologist | 🛠️ Creative Developer | 🎥 Digital Artist
+### 🎮 Full-Spectrum Technologist | 🛠️ Creative Developer | 🎥 Digital Artist | 🎧 Audio Technologist
 
 ---
 
@@ -12,6 +12,7 @@ I'm a passionate, self-driven technologist who thrives at the intersection of cr
 - 🧰 Scripting (Python, PowerShell, Bash)
 - 🎨 Media Creation (Photography, Video Editing, 3D Modelling)
 - 🎮 Game Development (Unity, Godot, Custom Engines)
+- 🎵 Music Production (FL Studio, Serum, MIDI)
 - 🛠️ Currently exploring: Lua scripting for GTA5 modding
 
 ---
@@ -50,6 +51,12 @@ I'm a passionate, self-driven technologist who thrives at the intersection of cr
 ![VEGAS Pro](https://img.shields.io/badge/VEGAS%20Pro-009BDF?style=flat&logo=vegas&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=flat&logo=obsstudio&logoColor=white)
 
+### 🎛️ Audio & Music Tools (New Hobby)
+
+![FL Studio](https://img.shields.io/badge/FL_Studio-F36F24?style=flat&logo=fl-studio&logoColor=white)
+![Serum](https://img.shields.io/badge/Serum-1A1A1A?style=flat&logo=splice&logoColor=white)
+![MIDI](https://img.shields.io/badge/MIDI-Scripting-4EAA25?style=flat&logo=music&logoColor=white)
+
 ### 🎨 Design & Creative Suite
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
@@ -86,6 +93,7 @@ If it’s creative and technical—I’m in.
 - Developed internal IT tools using Python, PowerShell & Bash
 - Designed responsive web UIs with Vue.js
 - Captured and edited cinematic footage & game montages
+- Integrated original audio into my Unity projects
 
 ---
 
@@ -105,6 +113,7 @@ Let’s build something awesome together:
 - 🎮 I started modding before games had ray tracing
 - 🎥 I edit cinematic content just for fun
 - 🛠️ I automate things I don’t want to do twice
+- 🎼 I sometimes code to loops I’ve written, just for rhythm’s sake
 - 🚀 Learning never stops
 
 ---
